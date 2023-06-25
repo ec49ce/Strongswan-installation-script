@@ -1,5 +1,7 @@
  This script is designed to automatically install the Strongswan daemon. Use Ubuntu 20.04. On it this script is tested and works well.
 
+https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ikev2-vpn-server-with-strongswan-on-ubuntu-20-04-ru
+
 ## Installation.
 
 Before running the script, find out your network interface. Use command
